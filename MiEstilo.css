@@ -1,0 +1,108 @@
+﻿body
+{	margin: 0%;
+	padding: 0%;
+	font-family:"Festive",cursive;
+	background-color: #ff0;
+}
+header{
+	background-color: #CC00FF;
+	text-align: center;
+	padding: 10px;
+	
+}
+h1{
+	text-align: center;
+	color:#21ffe2;
+	font-family: 'Rock Salt', cursive;
+	font-size: 40px;
+}
+h2{
+	text-align: center;
+	color:#CC00FF;
+	font-family: 'Rock Salt', cursive;
+	font-size: 25px;
+}
+h3{
+	text-align: center;
+	color:#CC00FF;
+	font-family: 'Rock Salt', cursive;
+	font-size: 25px;
+	padding: 5px;
+	margin: 2%;
+}
+p{
+	
+	text-align: center;
+	color:#003300;
+	font-family: 'Rock Salt', arial;
+	padding: 10px;
+
+}
+nav{
+	position: ;
+	height: 80px;
+	overflow: hidden;
+	top:200px;
+	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+	background: rgb(0, 11, 56);
+	width: 100%;
+	color:#21ffe2;
+}
+.menu{
+	position:absolute;
+	right:10px;
+
+}
+.menu a{
+	color:#21ffe2;
+	text-decoration:none;
+	font-weight:800;
+	margin-left:30px;
+	transition: color 1s;
+}
+img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border: 2px solid whitesmoke;
+	border-radius:10px;
+	width: 90%;
+}
+.video{
+   max-width: 600px;
+   margin: auto;
+   text-align: center;
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 340px;
+  background-color: #FF6666;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 25px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}

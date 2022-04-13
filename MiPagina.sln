@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FBAAE83A-1DC5-4514-A0A1-283628E85E75}"
+	ProjectSection(SolutionItems) = preProject
+		assassin-s-creed-valhalla.jpg = assassin-s-creed-valhalla.jpg
+		Dota2.jpg = Dota2.jpg
+		EldenRing.jpg = EldenRing.jpg
+		gameroom.jpg = gameroom.jpg
+		HTMLPage1.html = HTMLPage1.html
+		Introduccion.jpg = Introduccion.jpg
+		mando.png = mando.png
+		Mario.jpg = Mario.jpg
+		MiEstilo.css = MiEstilo.css
+		theAscent.jpg = theAscent.jpg
+		theWitcher.jpg = theWitcher.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0470A87E-F05C-4EA7-837A-A4F279BB5A2C}
+	EndGlobalSection
+EndGlobal
